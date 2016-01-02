@@ -1,0 +1,6 @@
+name: CombatListener
+version: 1.0
+api: [1.3.0]
+author: kdani
+main: kdani\CombatListener\Main
+description: Listen players during a fight
